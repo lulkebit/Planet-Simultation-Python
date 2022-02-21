@@ -1,2 +1,2 @@
 # Planet-Simultation-Python
-A basic planet simulation of some planets of our solar system
+A pretty accurate planet simulation of some planets in our solar system
